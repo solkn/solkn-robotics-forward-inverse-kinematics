@@ -1,0 +1,2 @@
+set(arm_lib_MESSAGE_FILES "/home/sol/catkin_ws/src/gazebo_tutorials/arm_lib/msg/input_angles.msg;/home/sol/catkin_ws/src/gazebo_tutorials/arm_lib/msg/input_command.msg;/home/sol/catkin_ws/src/gazebo_tutorials/arm_lib/msg/positions.msg")
+set(arm_lib_SERVICE_FILES "/home/sol/catkin_ws/src/gazebo_tutorials/arm_lib/srv/Fk.srv;/home/sol/catkin_ws/src/gazebo_tutorials/arm_lib/srv/Ik.srv")

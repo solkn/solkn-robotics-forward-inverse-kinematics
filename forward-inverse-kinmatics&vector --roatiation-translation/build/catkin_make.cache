@@ -1,0 +1,2 @@
+beginner_tutorials:gazebo_tutorials/src/arm_description:gazebo_tutorials/src/arm_gazebo:gazebo_tutorials/src/arm_lib
+-DCATKIN_DEVEL_PREFIX=/home/sol/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sol/catkin_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/sol/robotics_assignment_1/three_arm_ws/install
+
+Name: three_arm_gazebo
+Description: Description of three_arm_gazebo
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lthree_arm_gazebo
+Requires: gazebo_ros roscpp std_msgs

@@ -1,0 +1,8 @@
+prefix=/home/sol/robotics_assignment_1/three_arm_ws/install
+
+Name: three_arm_description
+Description: Description of three_arm_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

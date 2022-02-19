@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/sol/robotics_assignment_1/three_arm_ws/devel/setup.sh
